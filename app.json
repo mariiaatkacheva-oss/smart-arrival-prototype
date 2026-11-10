@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Smart Arrival",
+    "slug": "smart-arrival-prototype",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.portfolio.smartarrival"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
